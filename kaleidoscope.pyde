@@ -27,7 +27,7 @@ def keyPressed():
     if keyCode == ord(' '):
         setup()
     elif keyCode == ord('S'):
-        stamp = datetime.now().strftime("%H:%M:%S-%d-%m-%Y")
+        stamp = datetime.now().strftime("data/%H:%M:%S-%d-%m-%Y")
         with open(stamp + ".txt", "w") as ser_file:
             ser_file.write(str(tri))
         save(stamp + ".tiff")

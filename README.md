@@ -3,12 +3,12 @@ Kaleidoscope-inspired pretty processing thing. Shapes are not allowed to collide
 
 Here is a screenshot of the rolling setup in progress:
 
-![screenshot](https://github.com/elterminad0r/kaleidoscope/blob/master/partial.png)
+![screenshot](https://github.com/goedel-gang/kaleidoscope/blob/master/partial.png)
 
 And here is a finished kaleidoscope:
 
-![screenshot](https://github.com/elterminad0r/kaleidoscope/blob/master/full.png)
+![screenshot](https://github.com/goedel-gang/kaleidoscope/blob/master/full.png)
 
 And here is a larger kaleidoscope which is easier to see:
 
-![screenshot](https://github.com/elterminad0r/kaleidoscope/blob/master/big.png)
+![screenshot](https://github.com/goedel-gang/kaleidoscope/blob/master/big.png)

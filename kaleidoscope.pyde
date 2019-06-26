@@ -1,5 +1,3 @@
-# vim: ft=python
-
 from datetime import datetime
 
 from EqTriangle import EqTriangle
